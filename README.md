@@ -1,4 +1,5 @@
 ```
+
 class Solution(object):
     def checkDivisibility(self, n):
         digits = [int(d) for d in str(n)]
